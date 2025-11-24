@@ -1,4 +1,4 @@
-# SentimentAnalysisAI
+# SentimentAnalysisAI (24-11-25)
 A multi-class sentiment analysis model trained on Twitter data (keggle), using TF-IDF feature extraction and a custom softmax regression implementation trained with gradient descent.
 # Libraries Used
 1. SKLEARN
