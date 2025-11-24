@@ -10,5 +10,4 @@ Coded a sentiment analysis AI model using sample twitter dataset from keggle
 Cause everyone makes this AI
 
 Well instead of using 
-```model = LogisticRegression(multi_class="multinomial", max_iter=1000)
-   model.fit(X_train_vec, y_train```
+```model = LogisticRegression(multi_class="multinomial", max_iter=1000) model.fit(X_train_vec, y_train```
